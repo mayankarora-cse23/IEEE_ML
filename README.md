@@ -110,12 +110,11 @@ Final Cross-Validation Accuracy:
 
 # 📂 Repository Contents
 
-ML-Fault-Detection/
-│
-├── first_submission.ipynb # Complete training & experimentation
-├── FINAL.csv # Final submission file
-├── requirements.txt
-└── README.md
+ML-Fault-Detection
+ - first_submission.ipynb # Complete training & experimentation
+ - FINAL.csv # Final submission file
+ - requirements.txt
+ - README.md
 
 
 

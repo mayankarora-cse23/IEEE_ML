@@ -162,15 +162,6 @@ Run all cells to:
 
 - The dataset is highly separable, enabling near 99% accuracy.
 
-# 🔮 Future Improvements
-
-- Multi-seed ensemble averaging
-
-- Advanced stacking techniques
-
-- SHAP-based feature interpretation
-
-- Feature interaction engineering
 
 # 👨‍💻 Author
 

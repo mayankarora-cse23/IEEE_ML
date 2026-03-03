@@ -140,37 +140,37 @@ pip install -r requirements.txt
 
 Open the notebook:
 
-first_submission.ipynb
+- first_submission.ipynb
 
 Run all cells to:
 
-Train LightGBM model
+- Train LightGBM model
 
-Perform feature selection
+- Perform feature selection
 
-Generate FINAL.csv
+- Generate FINAL.csv
 
 # 🔍 Key Insights
 
-LightGBM outperformed XGBoost.
+- LightGBM outperformed XGBoost.
 
-Feature pruning improved generalization more than hyperparameter tuning.
+- Feature pruning improved generalization more than hyperparameter tuning.
 
-Threshold optimization significantly improved accuracy.
+- Threshold optimization significantly improved accuracy.
 
-Ensemble attempts did not outperform optimized single model.
+- Ensemble attempts did not outperform optimized single model.
 
-The dataset is highly separable, enabling near 99% accuracy.
+- The dataset is highly separable, enabling near 99% accuracy.
 
 # 🔮 Future Improvements
 
-Multi-seed ensemble averaging
+- Multi-seed ensemble averaging
 
-Advanced stacking techniques
+- Advanced stacking techniques
 
-SHAP-based feature interpretation
+- SHAP-based feature interpretation
 
-Feature interaction engineering
+- Feature interaction engineering
 
 # 👨‍💻 Author
 

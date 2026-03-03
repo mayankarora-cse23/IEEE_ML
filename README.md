@@ -165,6 +165,6 @@ Run all cells to:
 
 # 👨‍💻 Author
 
-Mayank Arora and Priyanh Rathore
-IEEE ML Challenge Submission
-GitHub: https://github.com/mayankarora-cse23
+- Mayank Arora and Priyanh Rathore
+- IEEE ML Challenge Submission
+- GitHub: https://github.com/mayankarora-cse23
